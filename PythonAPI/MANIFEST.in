@@ -1,0 +1,3 @@
+include src/*
+include pycocotools/_mask.pyx
+exclude pycocotools/_mask.c
